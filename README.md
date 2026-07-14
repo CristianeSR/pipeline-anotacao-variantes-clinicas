@@ -34,3 +34,15 @@ graph TD
     C --> D[Mapeamento de Coordenadas Genômicas - GRanges]
     D --> E[Anotação de Impacto Funcional - Bioconductor]
     E --> F[Relatório Final de Variantes Prioritárias para Laudo]
+
+---
+
+## 👩‍🔬 Sobre Mim
+*Cristiane Signorelli Rebolla*
+Analista de Sistemas com sólida experiência em mapeamento de processos empresariais e arquitetura de dados (ERPs TOTVS), atualmente graduanda em *Biomedicina*. 
+
+Estou unindo minha bagagem de anos na tecnologia da informação com a paixão pela saúde molecular. Minha entrada na *Bioinformática* é o pilar central da minha transição de carreira, onde aplico lógica de sistemas, manipulação de bancos de dados e automação de processos computacionais para otimizar a análise de dados genômicos e acelerar o diagnóstico de precisão.
+
+📫 *Contato:*
+*   *LinkedIn:* [(https://www.linkedin.com/in/cristiane-rebolla/)]
+*   *E-mail:* cristiane013.sr@gmail.com
